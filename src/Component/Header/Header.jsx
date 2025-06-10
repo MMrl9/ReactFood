@@ -34,8 +34,8 @@ export function Header(){
                     Granny is a restaurant, bar and coffee roastery located on Egyp. We have awesome recipes and the most talented chafs in town!
                 </p>
                 <div className="NextOrPrev">
-                    <button onClick={()=>hadnelPrev()} className="prevB"><img src="./public/next.png" alt="" /></button>
-                    <button onClick={()=>handelNext()}><img src="./public/next.png" alt="hello" /></button>
+                    <button onClick={()=>hadnelPrev()} className="prevB"><img src="../public/next.png" alt="" /></button>
+                    <button onClick={()=>handelNext()}><img src="../public/next.png" alt="hello" /></button>
                     
                 </div>
             </div>
